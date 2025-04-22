@@ -10,7 +10,7 @@ const Homepage: React.FC = () => {
       <div className="max-w-4xl w-full">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-vote-primary mb-2">
-            VoteSnap
+            Nweme Online Voting Platform
           </h1>
           <p className="text-xl text-gray-600">Secure Online Voting Portal</p>
         </div>
@@ -75,7 +75,7 @@ const Homepage: React.FC = () => {
         </div>
 
         <div className="mt-12 text-center text-gray-500 text-sm">
-          <p>© 2025 VoteSnap - Secure Online Voting Platform</p>
+          <p>© 2025 Nweme Online Voting Platform - Secure Online Voting Platform</p>
           <p className="mt-1">For demonstration purposes only</p>
         </div>
       </div>
